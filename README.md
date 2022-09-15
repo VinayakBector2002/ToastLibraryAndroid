@@ -26,9 +26,12 @@ dependencies {
 
 ### Step 3: Use the provided method(s)
 ``` Kotlin
-// Available Function : Show
+// Available Function 
+// 1 : Show
 // Takes in a context and string to display on screen
 show(C : Context, M : String)
+// 2 : Debugger
+debugger (context : Context, message : String, tag : String)
 ```
 
 ## Testing Application 
